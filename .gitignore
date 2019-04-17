@@ -1,3 +1,12 @@
+# R
+R/
+
+# dataset
+*.csv
+
+# zip
+*.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -117,6 +126,7 @@ dmypy.json
 
 # Vim
 *.swp
+*.swo
 
 # PyCharm
 .idea/

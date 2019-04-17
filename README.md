@@ -1,21 +1,18 @@
 # Machine Learning A-Z
 
-Data repository for the Machine Learning course by Kirill Eremenko and Hadelin de Ponteves
+- Solutions of **Machine Learning A-Z - Udemy** from personal practice
+- Data repository for the Machine Learning course by Kirill Eremenko and Hadelin de Ponteves.
 
 ## TOC
-
----
 
 ### Part 0: Welcome to the Course
 #### Section 1. Welcome to the course!- Meet your instructors
 
----
 
 ### Part 1: Data Preprocessing
 #### Section 2. Data Preprocessing
-- Machine Learning A-Z Template Folder- Data-Preprocessing.zip
-
----
+- [Machine Learning A-Z Template Folder](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P14-Machine-Learning-AZ-Template-Folder.zip)
+- [Data-Preprocessing.zip](https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P14-Data-Preprocessing.zip)
 
 ### Part 2: Regression
 #### Section 3. Welcome to Part 2!
@@ -48,7 +45,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 12. Sections Recap
 - TBA
 
----
 
 ### Part 3: Classification
 #### Section 13. Welcome to Part 3!
@@ -81,7 +77,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 22. Part Recap
 - TBA
 
----
 
 ### Part 4: Clustering
 #### Section 23. Welcome to part 4!
@@ -96,7 +91,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 26. Part Recap
 - TBA
 
----
 
 ### Part 5: Association Rule Learning
 #### Section 27. Welcome to part 5!
@@ -111,7 +105,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 30. Part Recap
 - TBA
 
----
 
 ### Part 6: Reinforcement Learning
 #### Section 31. Welcome to the part 6!
@@ -126,7 +119,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 34. Part 6 Recap
 - TBA
 
----
 
 ### Part 7: Natural Language Processing
 #### Section 35. Welcome to Part 7!
@@ -138,7 +130,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 37. Part 7 Recap
 - TBA
 
----
 
 ### Part 8: Deep Learning
 #### Section 38. Welcome to Part 8!
@@ -153,7 +144,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 41. Part 8 Recap
 - TBA
 
----
 
 ### Part 9:Dimensionality Reduction
 #### Section 42. Welcome to Part 9!
@@ -171,7 +161,6 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 46. Part 9 Recap
 - TBA
 
----
 
 ### Part 10: Model Selection
 #### Section 47. Welcome to Part 10!
@@ -180,7 +169,14 @@ Data repository for the Machine Learning course by Kirill Eremenko and Hadelin d
 #### Section 48: Model Selection
 - Model-Selection.zip
 
-#### Section 49: XGBoost- XGBoost.zip
+#### Section 49: XGBoost
+- XGBoost.zip
 
-# Reference(s)
+## Reference(s)
 https://www.superdatascience.com/pages/machine-learning
+
+## Special Thanks
+- [Kirill Eremenko](https://www.linkedin.com/in/keremenko/)
+- [Hadelin de Ponteves](https://www.linkedin.com/in/hadelin-de-ponteves-1425ba5b/)
+- [Udemy](https://www.udemy.com/machinelearning/learn/v4/overview)
+- [superdatascience.com](www.superdatascience.com)
